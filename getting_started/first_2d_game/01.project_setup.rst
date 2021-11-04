@@ -43,6 +43,14 @@ Launch Godot and create a new project.
     You also need SCons to use the build system (the SConstruct file).
     Then you need to `download the Godot C++ bindings <https://github.com/godotengine/godot-cpp>`_
     and place them in your project.
+    
+ .. tab:: VisualScript
+ 
+    Download :download:`dodge_assets.zip <files/dodge_assets.zip>`.
+    The archive contains the images and sounds you'll be using
+    to make the game. Extract the archive and move the ``art/``
+    and ``fonts/`` directories to your project's directory.
+ 
 
 Your project folder should look like this.
 
